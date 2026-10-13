@@ -1,0 +1,43 @@
+{
+  "feature_cols": [
+    "p_Wrinkles_resnet50",
+    "p_benign_lesions_resnet50",
+    "p_eczema_resnet50",
+    "p_fungal_infections_resnet50",
+    "p_psoriasis_resnet50",
+    "p_skin_cancer_resnet50",
+    "p_skin_pores_resnet50",
+    "p_viral_skin_infections_resnet50",
+    "p_Wrinkles_effnet_b0",
+    "p_benign_lesions_effnet_b0",
+    "p_eczema_effnet_b0",
+    "p_fungal_infections_effnet_b0",
+    "p_psoriasis_effnet_b0",
+    "p_skin_cancer_effnet_b0",
+    "p_skin_pores_effnet_b0",
+    "p_viral_skin_infections_effnet_b0",
+    "p_Wrinkles_convnext_small",
+    "p_benign_lesions_convnext_small",
+    "p_eczema_convnext_small",
+    "p_fungal_infections_convnext_small",
+    "p_psoriasis_convnext_small",
+    "p_skin_cancer_convnext_small",
+    "p_skin_pores_convnext_small",
+    "p_viral_skin_infections_convnext_small"
+  ],
+  "classes": [
+    "Wrinkles",
+    "benign_lesions",
+    "eczema",
+    "fungal_infections",
+    "psoriasis",
+    "skin_cancer",
+    "skin_pores",
+    "viral_skin_infections"
+  ],
+  "bases": [
+    "resnet50",
+    "effnet_b0",
+    "convnext_small"
+  ]
+}

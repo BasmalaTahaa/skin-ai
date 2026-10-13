@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-jose
+passlib[argon2]
+pydantic[email]
+python-multipart
+groq
+requests
+pillow
+numpy
+joblib
+scikit-learn
+torch
+torchvision
+timm

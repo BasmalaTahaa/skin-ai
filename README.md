@@ -141,6 +141,8 @@ npm start
 # Lint
 npm run lint
 ```
+Trained model weights: https://www.kaggle.com/basmalatahaamer/models
+Place the .pt files in backend/models_ml/ before running the backend.
 
 ## License
 
